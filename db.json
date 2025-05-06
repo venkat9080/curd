@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "appl",
+      "price": "122",
+      "oldPrice": "1212"
+    },
+    {
+      "id": "f406",
+      "name": "red",
+      "price": "1234",
+      "oldPrice": "12344"
+    }
+  ]
+}
